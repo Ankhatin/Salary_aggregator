@@ -1,0 +1,13 @@
+# Default ignored files
+
+__pycache__/
+tests/__pycache__/
+.idea/
+.venv/
+
+# Unit test
+
+#.coverage
+.pytest_cache/
+
+.env
